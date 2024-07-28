@@ -1,0 +1,36 @@
+# Key Terms and Descriptions
+
+## AI Terms 
+The following are AI Terms which are referenced in order to provide understanding, or save time down the line. 
+
+### Expert Systems : 
+This is a computer program which uses AI technologies to simulate the judgement and behaviour of a human/organisation which could be a Expert or have advanced experienced in that field. The idea is a knowledge base is built 
+up for the computer system to take from, it uses reasoning and inference rules based off the user query. These Expert systems are designed for specific domains, and try to emulate the human counterpart. Having more knowledge available for the system 
+to pull from will typical improve the chances of the response to any query being more accurate/correct/valid. 
+
+Examples :
+
+- DENDRAL?
+- MYCIN?
+- PXDES?
+
+Characterised by: 
+
+- High Performance : 
+- Understandable : 
+- Reliable :
+- Highly Responsive : 
+
+Components : 
+
+- User Interface 
+- Inference Engine (Rules of Engine) : AKA the brain of the system, and is the main processing unit. It applies 
+- Knowledge Base
+
+### Neural Networks 
+
+### Natural Language Processing
+
+###
+
+###
