@@ -20,3 +20,9 @@ Note: This tool would be for assisting. And is reliant on accuracy from the user
 Ticket Order: 
 - Choose the Language, Frameworks etc.
 - 
+
+
+Phases: 
+- Focus on user Input and Pulling from external Sources
+- Information Storage
+- Predictive Patterns 
